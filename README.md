@@ -1,11 +1,10 @@
-# GO 
+# git 
 
 
 ## comands: 
-go build 
-./executable_file
-
-go get package(githublink)
+    * go build 
+    * ./executable_file
+    * go get package(githublink)
 
 ## links
     * https://golang.org
