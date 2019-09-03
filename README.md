@@ -1,5 +1,7 @@
 # git 
 
+## my tests: 
+    * hello
 
 ## comands: 
     * go build 
@@ -9,4 +11,5 @@
 ## links
     * https://golang.org
     * https://medium.com/swlh/python-vs-golang-select-the-best-one-to-level-up-your-business-1a6d0fb32991
+        * Python ERP = Odoo (CMS, BI, etc. )
     * https://www.educba.com/python-vs-go/ 
