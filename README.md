@@ -2,6 +2,7 @@
 
 ## my tests: 
     * hello
+    * http client/server
 
 ## comands: 
     * go build 
