@@ -20,3 +20,5 @@ when I save the code is automatically formatted
         * Python ERP = Odoo (CMS, BI, etc. )
     * https://www.educba.com/python-vs-go/ 
     * https://gobyexample.com/
+
+test
