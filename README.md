@@ -10,6 +10,10 @@
     * go run hello.go
     * go get package(githublink)
 
+## Notes: 
+when I save the code is automatically formatted
+
+
 ## links
     * https://golang.org
     * https://medium.com/swlh/python-vs-golang-select-the-best-one-to-level-up-your-business-1a6d0fb32991
