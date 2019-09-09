@@ -33,5 +33,6 @@ func main() {
 	fmt.Println(nextInt()) //2
 	newInts := intSeq()    // Start over 1
 	fmt.Println(newInts())
+	// test
 
 }
