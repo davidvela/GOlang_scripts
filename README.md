@@ -22,4 +22,4 @@ when I save the code is automatically formatted
     * https://gobyexample.com/
 
 test
-![sc1](https://github.com/davidvela/golang-scripts/blob/master/assets/golang.jpeg)
+![sc1](https://github.com/davidvela/GOlang_scripts/blob/master/assets/golang.jpeg)
